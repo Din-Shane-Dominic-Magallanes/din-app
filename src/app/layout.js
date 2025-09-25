@@ -12,13 +12,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Yana Card",
+  title: "Card for Yana",
   description: "Card for Yana",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon-32x32.png" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
