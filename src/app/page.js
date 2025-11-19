@@ -108,7 +108,7 @@ export default function Home() {
             and focused to reach your goals. I am always proud of you for that.
             Goodluck Yana koo and I am always here for you, to support you and 
             atleast just be with you, I always believe in you! You will do great! Go my Engineer!
-            I love youuuuuu veryyy muchhhhhhhhh!! 
+            I love youuuuuu veryyy muchhhhhhhhh!! FOR NOVEMBER 19, 2025! HEY BABYYY, mao ni akong website nga gihimo last September 25, HAHAHA. So simple but I hope you like it. Anyways, my wish still remains the same. FOR THIS TIME MA ENGINEER NAKAA! DO GREAT HONEYY I LOVE YOUU ALWAYSSSS!!!
           </p>
           <div className="text-pink-500 text-3xl font-extrabold text-center animate-fade-in mt-2 font-[Pacifico,cursive]">
             — Din Shane Pogi 
