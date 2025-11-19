@@ -96,7 +96,7 @@ export default function Home() {
             To My Engineer!
           </h1>
           <div className="text-pink-400 text-lg font-semibold mb-2 text-center font-[Quicksand,sans-serif]">
-            September 25, 2025
+            November 19, 2025
           </div>
           <p className="text-gray-700 text-center mb-4 break-words leading-relaxed font-[Quicksand,sans-serif] text-lg">
             Hey pretty gurl! I am very excited ma engineer naka baby.
